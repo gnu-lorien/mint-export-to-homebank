@@ -1,0 +1,8 @@
+This script converts the CSV files exported from Mint into a series of CSV files that can be read in by HomeBank in order
+to seed a HomeBank with historical data from Mint. Note when exporting data from Mint that it only exports 10,000 entries
+at a time! If you have an old enough account you'll have far more than this.
+
+This script was necessary because Mint has been shut down and they tried to move everybody to Credit Karma. That site
+doesn't do budgeting.
+
+https://www.gethomebank.org/help/index.html
